@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @habinpark
 - 👀 I’m interested in Game Development 
-- 🌱 I’m currently learning ai art generation
+- 🌱 I’m currently working on games in Unreal Engine and Unity
 - 💞️ I’m looking to collaborate on any games
 - 📫 How to reach me add a commment :)
 
